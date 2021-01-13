@@ -8,10 +8,9 @@ an Implementation of the Iterative Deepening Alpha-Beta Search
 
     http://omok.mgame.com/help/rule.htm
 
+## 2. Game AI
 
-### 2. Game AI
-
-### 3. Iterative Deepening Alpha-Beta Search
+## 3. Iterative Deepening Alpha-Beta Search
 
 * Iterative Deepening Search
 
